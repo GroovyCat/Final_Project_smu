@@ -1,6 +1,5 @@
 *.py linguist-detectable=false 
 *.cpp linguist-detectable=true 
 *.java linguist-detectable=false
-*.makefile linuist-detectable=false
-*.c linguist-detectable=false
+*.make linuist-detectable=false
 
