@@ -1,4 +1,2 @@
-*.cpp linguist-detectable=false 
-*.make linuist-detectable=true
-*.cmake linguist-detectable=false
-
+* linguist-vendored
+*.cpp linguist-vendored=false
