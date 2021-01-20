@@ -1,4 +1,4 @@
-*.cpp linguist-detectable=true 
+*.cpp linguist-detectable=false 
+*.make linuist-detectable=true
 *.cmake linguist-detectable=false
-*.make linuist-detectable=false
 
