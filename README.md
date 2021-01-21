@@ -14,7 +14,7 @@ YOLO와 차선인식을 활용한 교통사고 방지 시스템 설계 및 구�
 ![lane](https://user-images.githubusercontent.com/15725909/105295961-16a99c80-5bfd-11eb-8047-1af6c59b7923.png)
 
 ## 개발 환경
-![개발환경](https://user-images.githubusercontent.com/15725909/105293344-6e93d380-5bfc-11eb-9463-6887dbdaa128.png)
+![개발환경](https://user-images.githubusercontent.com/15725909/105297600-7acc6080-5bfd-11eb-984b-5cd52a1cc7a0.png)
 
 ## 시스템 구조
 ![시스템 구조](https://user-images.githubusercontent.com/15725909/105293516-794e6880-5bfc-11eb-9c80-07d00ffbcd6b.jpg)
